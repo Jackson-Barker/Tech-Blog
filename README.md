@@ -1,24 +1,43 @@
 # Tech-Blog
+
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
+
+This app is a tech blog that allows users to read post posted by other users. Users can also create and account of their own and post their own blogs as well as interact with other blog post.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [User Story](#user-story)
+- [Usage](#usage)
+- [License](#license)
+- [Github Profile](#github-profile)
+- [Email](#email-address)
+- [Screenshot](#screenshot)
+- [Link](#link)
+
+## Installation
+
+1- CLone this repository.
+
+2- npm install.
+
+3- mysql -u root -p.
+
+4- SOURCE db/source.sql.
+
+5- npm run seed.
+
+6- npm start.
+
+## User Story
 
 ```md
 AS A developer who writes about tech
 I WANT a CMS-style blog site
 SO THAT I can publish articles, blog posts, and my thoughts and opinions
 ```
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-- [Github Profile](#github)
-- [Email](#email)
-- [Screenshot](#screenshot)
-- [Contribute](#contribution)
-- [Tests](#tests)
-## Installation
-
 
 ## Usage
 
@@ -57,15 +76,25 @@ THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 ```
-## Credits
 
 ## License
-MIT
-## Github Profile
- <a href="https://github.com/Jackson-Barker">GitHub Profile Link</a> 
-## Email Address
-<a href="mailto:barkerwjackson@gmail.com">Email</a>
-## Screenshot
-## How to Contribute
 
-## Tests
+MIT
+
+## Github Profile
+
+ <a href="https://github.com/Jackson-Barker">GitHub Profile Link</a> 
+
+## Email Address
+
+<a href="mailto:barkerwjackson@gmail.com">Email</a>
+
+## Link 
+
+<a href="https://boiling-woodland-73645.herokuapp.com/profile">Tech Blog</a>
+
+## Screenshot
+
+![tech blog screen shot](./images/techblogss.png)
+
+
